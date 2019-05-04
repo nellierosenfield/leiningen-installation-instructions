@@ -16,6 +16,8 @@ For Mac Installation | [Click me!](https://github.com/nilajawill/leiningen-insta
 
 For Windows Installation | [Click me!](https://github.com/nilajawill/leiningen-installation-instructions/blob/master/win-installation/WIN-README.md)
 
+For Linux Installation | [Click me!](https://github.com/nilajawill/leiningen-installation-instructions/blob/master/lin-installation/LIN-README.md)
+
 ## Contribution ##
 
 If you see where this can be improved or have some unanswered questions, please add an issue :).
