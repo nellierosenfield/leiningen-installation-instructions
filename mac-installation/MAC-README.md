@@ -17,5 +17,6 @@ Below are step-by-step instructions on installing Leiningen. These were taken di
 ## Resources Used ##
 
 Leiningen Website | https://leiningen.org/#install
+
 Hildeberto Mendonça's Instructions for MacOS | http://www.hildeberto.com/2015/07/installing-leiningen-on-mac-os.html
 
