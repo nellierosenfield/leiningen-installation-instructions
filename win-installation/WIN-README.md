@@ -1,4 +1,4 @@
-# Mac Installation #
+# Windows Installation #
 
 Howdy Windows users!
 
