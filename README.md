@@ -10,9 +10,11 @@ Included (or will be included) in this resource are instructions on installing L
 
 I will also add (or try to add) common installation issues and their solutions (if applicable)
 
-## A few notes ##
+## Installation Links ##
 
-I am a Windows user so my experience with MacOS and Linux installation is limited. However, from my research, Windows users experience more concerns when installing than the other two. So, there may not be a lot for Mac and Linux.
+For Mac Installation | [Click me!](https://github.com/nilajawill/leiningen-installation-instructions/blob/master/mac-installation/MAC-README.md)
+
+For Windows Installation | [Click me!](https://github.com/nilajawill/leiningen-installation-instructions/blob/master/win-installation/WIN-README.md)
 
 ## Contribution ##
 
