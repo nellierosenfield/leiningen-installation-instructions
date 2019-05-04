@@ -18,4 +18,4 @@ I am a Windows user so my experience with MacOS and Linux installation is limite
 
 If you see where this can be improved or have some unanswered questions, please add an issue :).
 
-# Thank you very much and good day coding! #
+### Thank you very much and good day coding! ###
